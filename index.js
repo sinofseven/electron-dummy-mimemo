@@ -12,7 +12,7 @@ function createWindow () {
 
   // and load the index.html of the app.
   // TODO: set service url
-  win.loadURL('')
+  win.loadURL('https://mimemo.io/')
 }
 
 app.on('ready', createWindow)

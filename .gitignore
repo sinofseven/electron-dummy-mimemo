@@ -61,6 +61,4 @@ typings/
 .next
 
 # electron-simle-dummy-app
-index.js
-build.js
 /dist/
