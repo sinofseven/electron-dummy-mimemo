@@ -1,0 +1,21 @@
+{
+  "name": "electron-simple-dummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "try": "electron .",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://github-private/sinofseven/electron-simple-dummy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^6.0.12",
+    "electron-builder": "^21.2.0"
+  }
+}
